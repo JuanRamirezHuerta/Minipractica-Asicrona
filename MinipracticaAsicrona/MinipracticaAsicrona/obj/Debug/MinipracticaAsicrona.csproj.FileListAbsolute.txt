@@ -1,0 +1,11 @@
+C:\Users\rhlb-\source\repos\MinipracticaAsicrona\MinipracticaAsicrona\bin\Debug\MinipracticaAsicrona.exe.config
+C:\Users\rhlb-\source\repos\MinipracticaAsicrona\MinipracticaAsicrona\bin\Debug\MinipracticaAsicrona.exe
+C:\Users\rhlb-\source\repos\MinipracticaAsicrona\MinipracticaAsicrona\bin\Debug\MinipracticaAsicrona.pdb
+C:\Users\rhlb-\source\repos\MinipracticaAsicrona\MinipracticaAsicrona\obj\Debug\MinipracticaAsicrona.csproj.AssemblyReference.cache
+C:\Users\rhlb-\source\repos\MinipracticaAsicrona\MinipracticaAsicrona\obj\Debug\MinipracticaAsicrona.csproj.SuggestedBindingRedirects.cache
+C:\Users\rhlb-\source\repos\MinipracticaAsicrona\MinipracticaAsicrona\obj\Debug\MinipracticaAsicrona.Form1.resources
+C:\Users\rhlb-\source\repos\MinipracticaAsicrona\MinipracticaAsicrona\obj\Debug\MinipracticaAsicrona.Properties.Resources.resources
+C:\Users\rhlb-\source\repos\MinipracticaAsicrona\MinipracticaAsicrona\obj\Debug\MinipracticaAsicrona.csproj.GenerateResource.cache
+C:\Users\rhlb-\source\repos\MinipracticaAsicrona\MinipracticaAsicrona\obj\Debug\MinipracticaAsicrona.csproj.CoreCompileInputs.cache
+C:\Users\rhlb-\source\repos\MinipracticaAsicrona\MinipracticaAsicrona\obj\Debug\MinipracticaAsicrona.exe
+C:\Users\rhlb-\source\repos\MinipracticaAsicrona\MinipracticaAsicrona\obj\Debug\MinipracticaAsicrona.pdb
